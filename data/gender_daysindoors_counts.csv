@@ -1,0 +1,11 @@
+Gender,DaysIndoors,Count
+Female,1-14 days,498
+Female,15-30 days,504
+Female,31-60 days,540
+Female,Go out Every day,546
+Female,More than 2 months,516
+Male,1-14 days,2697
+Male,15-30 days,2201
+Male,31-60 days,2511
+Male,Go out Every day,2387
+Male,More than 2 months,2294
